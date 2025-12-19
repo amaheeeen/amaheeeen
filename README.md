@@ -1,6 +1,6 @@
 # Hi there, I'm Farhan Kholid 👋
 
-![Banner](https://raw.githubusercontent.com/frhnkhld/frhnkhld/main/portofolio/assets/img/BG-DEPAN.png)
+![Banner](https://raw.githubusercontent.com/amaheeeen/amaheeeen/main/portofolio/assets/img/BG-DEPAN.png)
 
 ## 🚀 Front-End Engineer Associate | UI/Visual Designer
 I am a hybrid professional with a strong background in visual design and branding (4 years), currently actively transitioning into **Front-End Engineering**. I thrive on translating complex ideas into elegant user interfaces and powerful visual assets.
