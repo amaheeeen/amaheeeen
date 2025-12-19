@@ -16,7 +16,7 @@ I am a hybrid professional with a strong background in visual design and brandin
 - **[DataSmoothing](https://github.com/amaheeeen/DataSmoothing):** Interactive Time Series visualization tool.
 
 ### 📫 Let's Connect
-- **Portfolio:** [Visit my website](https://frhnkhld.github.io)
+- **Portfolio:** [Visit my website](https://amaheeeen.github.io)
 - **LinkedIn:** [farhan-kholid](https://www.linkedin.com/in/farhan-kholid-8115b9202/)
 - **Email:** farhankholid20@gmail.com
 
