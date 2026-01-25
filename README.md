@@ -4,9 +4,7 @@
 
   <br/><br/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Farhan+Kholid+👋;Front-End+Engineer+Associate;UI%2FVisual+Designer;Crafting+Digital+Experiences" alt="Typing SVG" />
-  </a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Farhan+Kholid+👋;Front-End+Engineer+Associate;UI%2FVisual+Designer;Crafting+Digital+Experiences)](https://git.io/typing-svg)
 
   <p align="center">
     <b>Hybrid Professional:</b> Bridging the gap between <b>Visual Design</b> & <b>Engineering</b>.
