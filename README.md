@@ -49,12 +49,14 @@ I am a professional with a unique blend of skills. With **4 years of background 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 <br/>
+
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
 <br/>
+
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe_Creative_Cloud-DA2828?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" />
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
@@ -83,8 +85,8 @@ I am a professional with a unique blend of skills. With **4 years of background 
 ### 📊 GitHub Analytics
 
 <a href="https://github.com/amaheeeen">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amaheeeen&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaheeeen&layout=compact&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=amaheeeen&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaheeeen&layout=compact&theme=tokyonight"/>
 </a>
 
 <br/>
