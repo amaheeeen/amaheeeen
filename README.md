@@ -11,7 +11,7 @@
   </p>
 
   <p align="center">
-    <a href="[https://amaheeeen.github.io](https://amaheeeen.github.io/portofolio-farhan-2026/)" target="_blank">
+    <a href="https://amaheeeen.github.io/portofolio-farhan-2026/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/farhan-kholid-8115b9202/" target="_blank">
